@@ -1,7 +1,7 @@
 #!/usr/bin/env python2
 # -*- coding: utf-8 -*-
 """
-assignment#
+final project - blog
 Created on Fri Aug 23 15:21:38 2019
 @author: SPSjroseboom
 """
